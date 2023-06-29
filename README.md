@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end Developer
 -------------------
 
-An amateur coder, have been learning to code for 2 years, mostly by myself. I like design, I can design, I started design since school, my background actually is mechanic design, so ... I'm aiming to be a front-end Dev, or maybe full-stack if I can. Working with 2D & 3D design apps for years, I think I can handle with many awesome UI/UX designs. Hopefully, we can catch up soon for more real-world jobs & projects!
+An amateur coder, have been learning to code for 2 years, mostly by myself. <br/> I like design, I can design, I started design since school, my background actually is mechanic design, so ... I'm aiming to be a front-end Dev, or maybe full-stack if I can. <br/> Working with 2D & 3D design apps for years, I think I can handle with many awesome UI/UX designs. <br/> Hopefully, we can catch up soon for more real-world jobs & projects!
 
 *   🌍  I'm based in Vietnam
 *   🖥️  See my portfolio at [here](http://zeph1697.github.io/portfolio/)
