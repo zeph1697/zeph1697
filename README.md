@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Viet Anh Nguyen
 =======================================================================================================================================
 
-Front-end Developer
+Games & Websites Developer
 -------------------
 
-An junior coder, have been learning to code for 2 years, mostly by myself. <br/> I like design, I can design, I started design since school, my background actually is mechanic design, so ... I'm aiming to be a front-end Dev, or maybe full-stack if I can. <br/> Working with 2D & 3D design apps for years, I think I can handle with many awesome UI/UX designs. <br/> Hopefully, we can catch up soon for more real-world jobs & projects!
+A reticent coder, have been learning & working as a developer for more than 4 years.<br/>I like design, I can design, I started working with 2D & 3D design apps for years since school which lent me the confidence of thinking I can handle many awesome UI/UX designs, even though my background back then actually is mechanic design, so ... I was aiming to be a front-end Dev, or maybe full-stack if I could, and now I'm ended up with building web games & web-app platforms.<br/>Hopefully, we can catch up soon for more real-world jobs & projects!
 
 *   🌍  I'm based in Vietnam
 *   🖥️  See my portfolio at [here](https://portfolio-zeph-the-dev.vercel.app)
